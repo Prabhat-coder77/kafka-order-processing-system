@@ -76,7 +76,7 @@ http://localhost:3000
 
 ```bash
 # Clone repository
-git clone https://github.com/PramithaMJ/kafka-order-processing-system
+git clone https://github.com/Prabhat-coder77/kafka-order-processing-system
 cd Big-data-Assignment
 
 # Start entire system (infrastructure + services)
@@ -571,7 +571,7 @@ docker exec kafka1 kafka-consumer-groups --describe \
 
 **Pramitha M.J.**
 
-- GitHub: [@PramithaMJ](https://github.com/PramithaMJ)
+- GitHub: [@Prabhat-coder77](https://github.com/Prabhat-coder77)
 
 ## Quick Command Reference
 
