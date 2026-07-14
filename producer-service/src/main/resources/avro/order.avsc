@@ -1,0 +1,28 @@
+{
+  "type": "record",
+  "name": "Order",
+  "namespace": "com.pramithamj.kafka.model",
+  "doc": "Schema for order events in the Kafka order processing system - Assignment Requirements",
+  "fields": [
+    {
+      "name": "orderId",
+      "type": "string",
+      "doc": "Unique identifier for the order (e.g., '1001', '1002') - Required by Assignment"
+    },
+    {
+      "name": "product",
+      "type": "string",
+      "doc": "Name of the purchased item (e.g., 'Item1', 'Item2') - Required by Assignment"
+    },
+    {
+      "name": "price",
+      "type": "float",
+      "doc": "Price of the product (randomized for the assignment) - Required by Assignment"
+    },
+    {
+      "name": "timestamp",
+      "type": "long",
+      "doc": "Unix timestamp (milliseconds) when the order was created - For tracking purposes"
+    }
+  ]
+}
