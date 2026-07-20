@@ -9,7 +9,7 @@
 [![Java](https://img.shields.io/badge/Java-17%20LTS-orange.svg)](https://openjdk.org/)
 [![Avro](https://img.shields.io/badge/Apache%20Avro-1.11.3-red.svg)](https://avro.apache.org/)
 
-## EG/2020/3990 - Jayasooriya LPM
+## EG/2020/3990 -
 
 ## Table of Contents
 
